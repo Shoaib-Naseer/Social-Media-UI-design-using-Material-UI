@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![alt text](https://raw.githubusercontent.com/Shoaib-Naseer/Social-Media-UI-design-using-Material-UI/main/src/Screenshots/Screenshot%202022-08-23%20225319.png)
+
+![alt text](https://raw.githubusercontent.com/Shoaib-Naseer/Social-Media-UI-design-using-Material-UI/main/src/Screenshots/Screenshot%202022-08-23%20225231.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
